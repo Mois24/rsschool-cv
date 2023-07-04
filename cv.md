@@ -50,8 +50,6 @@ const answer = factorial(6);
 
 
 **March 2023 - Apr 2023**
-
-
 **Minsk, Belarus**
 
 
@@ -60,11 +58,7 @@ I created a website on React JS for Kyrgyz customer.
 
 
 **STEP IT Academy**
-
-
 **Jun 2021 - Apr 2022**
-
-
 **Minsk, Belarus**
 
 I studied at the IT Academy Step where I acquired theoretical knowledge and the following practical experience:
