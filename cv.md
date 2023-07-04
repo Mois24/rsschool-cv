@@ -64,7 +64,6 @@ I created a website on React JS for Kyrgyz customer.
 
 **Jun 2021 - Apr 2022**
 
-
 **Minsk, Belarus**
 
 I studied at the IT Academy Step where I acquired theoretical knowledge and the following practical experience:
