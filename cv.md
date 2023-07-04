@@ -13,7 +13,7 @@ I worked in the sales department in Belarus for seven years. But I want to devel
 P.S. If your company has a football team, I will be a great add on as I was professional football player. Except for football, I do extreme sports - skateboarding and snowboarding.
 
 # Skills
-* Hard Skills
+* **Hard Skills**
     + HTML/CSS
     + Bootstrap
     + JavaScript
@@ -22,13 +22,12 @@ P.S. If your company has a football team, I will be a great add on as I was prof
     + REST API
     + Git
     + Adobe Photoshop
-    + English B1
 
-* Soft Skills
-+ Ability to analyze complex technical information
-+ Team-player 
-+ Attention to details
-+ Problem solving
+* **Soft Skills**
+    + Ability to analyze complex technical information
+    + Team-player 
+    + Attention to details
+    + Problem solving
 
 # Code Example
 ```
@@ -48,13 +47,25 @@ const answer = factorial(6);
 # Experience
 
 ### Freelancer
-### March 2023 - Apr 2023
-#### Minsk, Belarus
+
+
+**March 2023 - Apr 2023**
+
+
+**Minsk, Belarus**
+
+
 I created a website on React JS for Kyrgyz customer.
 ### Student 
-### STEP IT Academy
-#### Jun 2021 - Apr 2022
-Minsk, Belarus
+
+
+**STEP IT Academy**
+
+
+**Jun 2021 - Apr 2022**
+
+
+**Minsk, Belarus**
 
 I studied at the IT Academy Step where I acquired theoretical knowledge and the following practical experience:
 * Experience in HTML and CSS;
@@ -66,11 +77,11 @@ I studied at the IT Academy Step where I acquired theoretical knowledge and the 
 * Theoretical knowledge of Agile Methodologies.
 
 # Education
-* University:
-+ Belarusian State University, Financial Management, 2012 - 2016
-+ the Academy of the MIA of the Republic of Belarus, Faculty of law, Sep 2017 - Jul 2020
-* Course:
-+ IT Academy Step, Web-Development (Front-end Developer), Jun 2021 - Apr 2022
+* **University:**
+    + Belarusian State University, Financial Management, 2012 - 2016
+    + the Academy of the MIA of the Republic of Belarus, Faculty of law, Sep 2017 - Jul 2020
+* **Course:**
+    + IT Academy Step, Web-Development (Front-end Developer), Jun 2021 - Apr 2022
 
 # English
 B1- (I study language on the platform Skyeng)
