@@ -1,18 +1,18 @@
 # [rsschool-cv](https://www.om.fr/fr)
 
-# Artyom Moiseev
+## Artyom Moiseev
 
-# My Contact Info
+## My Contact Info
 * Location: Bar, Montenegro
 * Phone: +382 68 211 849
 * Email: artyommois024@gmail.com
 * GitHub: [Mois24](https://github.com/Mois24)
-# About Me
+## About Me
 I worked in the sales department in Belarus for seven years. But I want to develop myself, so I decided to move on. My goal is to be an exceptional Frontend developer. Recently, I've relocated to Montenegro and now I’m looking for my starting position to take off. 
 
 P.S. If your company has a football team, I will be a great add on as I was professional football player. Except for football, I do extreme sports - skateboarding and snowboarding.
 
-# Skills
+## Skills
 * **Hard Skills**
     + HTML/CSS
     + Bootstrap
@@ -29,7 +29,7 @@ P.S. If your company has a football team, I will be a great add on as I was prof
     + Attention to details
     + Problem solving
 
-# Code Example
+## Code Example
 ```
 function factorial(n) {
     if (n === 0 || n <= 1) {
@@ -44,11 +44,10 @@ function factorial(n) {
 const answer = factorial(6);
 ```
 
-# Experience
+## Experience
 
 ### Freelancer
-
-
+---
 **March 2023 - Apr 2023**
 ---
 **Minsk, Belarus**
@@ -56,8 +55,7 @@ const answer = factorial(6);
 
 I created a website on React JS for Kyrgyz customer.
 ### Student 
-
-
+---
 **STEP IT Academy**
 ---
 **Jun 2021 - Apr 2022**
