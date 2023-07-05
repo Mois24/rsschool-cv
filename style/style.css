@@ -2,7 +2,14 @@
     box-sizing: border-box;
     margin: 0 auto;
     font-size: 15px;
-    font-family: Gothic A1;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+    letter-spacing: 80%;
+    text-transform: uppercase;
+    margin: 15px 0px;
 }
 
 .container {
@@ -25,12 +32,14 @@
 
 .header__profile_image {
     width: 20%;
+    margin-top: 50px;
 }
 
 .header__profile_image a img {
     width: 300px;
     height: 450px;
     position: absolute;
+    z-index: 50;
 }
 
 .header__container__info {
@@ -57,4 +66,48 @@
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 5px;
+}
+
+.main {
+    width: 100%;
+    background-color: #F5FFFA;
+}
+
+.main__container {
+    display: flex;
+}
+
+.main__first-block {
+    width: 30%;
+}
+
+.main__first-block .main__first-line {
+    width: 80%;
+    border: 2px solid #000;
+    margin-top: 225px;
+}
+
+.main__first-block .main__line {
+    width: 80%;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.main__second-block {
+    width: 70%;
+}
+
+._pd {
+    padding: 17px 30px 17px 35px;
+}
+
+.small-line {
+    width: 80%;
+    border: 1px solid #000;
+    margin: 10px;
+}
+
+.img_size {
+    width: 20px;
+    height: 20px;
 }
