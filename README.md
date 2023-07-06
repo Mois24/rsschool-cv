@@ -1,1 +1,1 @@
-https://Mois24.github.io/rsschool-cv/
+https://Mois24.github.io/rsschool-cv/ 
