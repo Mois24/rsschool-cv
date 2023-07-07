@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-size: 15px;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+h2 {
+    font-size: 25px;
+    letter-spacing: 80%;
+    text-transform: uppercase;
+    margin: 15px 0px;
+}
+
+.container {
+    min-height: 100%;
+    max-width: 1200px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    width: 100%;
+    height: 300px;
+    background-color: #8B0000;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header__profile_image {
+    width: 20%;
+    margin-top: 50px;
+}
+
+.header__profile_image img {
+    width: 320px;
+    height: 450px;
+    position: absolute;
+    z-index: 50;
+}
+
+.header__container__info {
+    display: flex;
+    flex-direction: column;
+}
+
+.header__job_name {
+    padding: 40px;
+}
+
+.header__job_name-text {
+    color: #FFFFFF;
+    font-size: 35px;
+    letter-spacing: 80%;
+    text-transform: uppercase;
+    padding: 40px 40px 0px 40px;
+    letter-spacing: 5px;
+}
+
+.header__personal__information-text {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+@media screen and (max-width: 1100px) {
+    .header {
+        width: 100%;
+        height: 250px;
+        background-color: #8B0000;
+    }
+
+    .header__profile_image img {
+        width: 280px;
+        height: 410px;
+        position: absolute;
+        z-index: 50;
+    }
+
+    .header__job_name {
+        padding: 30px;
+    }
+
+    .header__job_name-text {
+        color: #FFFFFF;
+        font-size: 25px;
+        letter-spacing: 80%;
+        text-transform: uppercase;
+        padding: 20px 20px 0px 20px;
+        letter-spacing: 5px;
+    }
+
+    .header__personal__information-text {
+        color: #FFFFFF;
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+    }
+}
+
+@media screen and (max-width: 925px) {
+    .header {
+        width: 100%;
+        height: 150px;
+        background-color: #8B0000;
+    }
+
+    .header__profile_image img {
+        width: 200px;
+        height: 300px;
+        position: absolute;
+        z-index: 50;
+    }
+
+    .header__job_name {
+        padding: 15px;
+    }
+
+    .header__job_name-text {
+        color: #FFFFFF;
+        font-size: 20px;
+        letter-spacing: 80%;
+        text-transform: uppercase;
+        padding: 10px 10px 0px 10px;
+        letter-spacing: 5px;
+    }
+
+    .header__personal__information-text {
+        color: #FFFFFF;
+        font-size: 25px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+    }
+}
+
+@media screen and (max-width: 925px) {
+    .header__job_name {
+        padding: 15px;
+    }
+
+    .header__job_name-text {
+        color: #FFFFFF;
+        font-size: 15px;
+        letter-spacing: 80%;
+        text-transform: uppercase;
+        padding: 10px 10px 0px 10px;
+        letter-spacing: 5px;
+    }
+
+    .header__personal__information-text {
+        color: #FFFFFF;
+        font-size: 20px;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+    }
+}
+
+.main {
+    width: 100%;
+    background-color: #F5FFFA;
+}
+
+.main__container {
+    display: flex;
+}
+
+.main__first-block {
+    width: 40%;
+}
+
+.main__first-block .main__first-line {
+    width: 80%;
+    border: 2px solid #000;
+    margin-top: 225px;
+}
+
+.main__first-block .main__line {
+    width: 80%;
+    border: 2px solid #000;
+    margin-top: 10px;
+}
+
+.main__second-block {
+    width: 70%;
+}
+
+._pd {
+    padding: 17px 30px 17px 35px;
+}
+
+.small-line {
+    width: 80%;
+    border: 1px solid #000;
+    margin: 10px;
+}
+
+
+.img_size {
+    width: 20px;
+    height: 20px;
+}
+
+.block-info {
+    margin-bottom: 5px;
+}
+
+.block-info span {
+    margin-left: 10px;
+    vertical-align: 3px;
+    font-size: 20px;
+}
+
+.main__second-block .main__line {
+    width: 90%;
+    border: 2px solid #000;
+}
+
+.footer {
+    width: 100%;
+    height: 80px;
+    background-color: #8B0000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-image {
+    width: 60px;
+    height: 60px;
+}
+
+.footer-text {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
