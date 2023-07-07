@@ -1,4 +1,4 @@
-# [rsschool-cv](https://www.om.fr/fr)
+# [rsschool-cv](https://Mois24.github.io/rsschool-cv/)
 
 ## Artyom Moiseev
 
